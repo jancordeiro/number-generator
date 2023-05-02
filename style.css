@@ -85,3 +85,17 @@
 	font-size: 50px;
 	font-weight: 600;
 }
+
+.github {
+	font-size: 20px;
+}
+
+.github a {
+	text-decoration: none;
+	color: white;
+}
+
+.github a:hover {
+	text-decoration: none;
+	color: #EFC940;
+}
